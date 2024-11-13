@@ -1,1 +1,1 @@
-# html-resume
+https://muneebali-dev.github.io/html-resume/
